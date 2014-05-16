@@ -1,5 +1,5 @@
-How to run effective meetings with internal clients
-===================================================
+How to run effective meetings
+=============================
 
 This guide will help you make sure both parties:
 - agree what the meeting is about
