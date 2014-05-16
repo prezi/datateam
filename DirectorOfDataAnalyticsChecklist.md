@@ -10,7 +10,7 @@ Make the company data-driven.
 * coach hox on what we should measure
 * evangelize and align everyone on the same metrics
 
-D.A.T.A. teams
+Teams
 --------------
 
 Make sure teams are effective and on track.
