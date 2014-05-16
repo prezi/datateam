@@ -1,2 +1,2 @@
-D.A.T.A. team culture documents
-===============================
+D.A.T.A. culture documents
+==========================
