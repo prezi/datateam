@@ -10,7 +10,7 @@ Culture
         - conscious logging choices because every engineer understands that the data/charts derived from these logs is the basis of our product, marketing, finance and hox organizations now and going forward
         - engineers think about the data that will ve derived from their programs' logs the same way they think about testing or refactoring their code
         - this is treated as part of the "full-stack developer"
-    - product managers allocate time for this the same way they allocate time for refactoring programs
+    - product managers allocate time for this the same way they allocate time for refactoring code
 
 Data infrastructure
 -------------------
