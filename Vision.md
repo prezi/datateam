@@ -42,7 +42,7 @@ Product Analytics
     - parameters such as ttp and retention measured for each
     - funnel built for each user segment
     - interaction of segments wrt. virality
-- thousands of A/B test experiments running in parallel to test the effect individual changes (instead of causation vs. correlation discussions)
+- thousands of A/B test experiments running in parallel to test the effect of individual changes (instead of causation vs. correlation discussions)
 - relevant product changes are analyzed for their business impact
 
 Business Analytics
