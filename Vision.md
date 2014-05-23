@@ -31,7 +31,7 @@ Data dashboards
     - seeded with real data from our warehouse
     - shows up-to-date information
     - includes forecast
-    - supoprts impact modeling: what would happen if we could increase metric M by 10%?
+    - supports impact modeling: "what happens if we increase ttp by 10%?"
 - replace GoodData with a dashboarding system (off-the-shelf or homegrown) that is able to show us fine-segments like Prezi Analytics but supports self-service charts and dashboards like GoodData
 
 Product Analytics
