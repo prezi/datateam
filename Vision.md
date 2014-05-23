@@ -37,10 +37,11 @@ Data dashboards
 Product Analytics
 -----------------
 - clear understanding of our user population:
-    - user segments
+    - user segments: elemantary school, high school, college, gov, smb, f500, private
     - what the value of Prezi for each segment is
     - parameters such as ttp and retention measured for each
     - funnel built for each user segment
+    - interaction of segments wrt. virality
 - thousands of A/B test experiments running in parallel to test the effect individual changes (instead of causation vs. correlation discussions)
 - relevant product changes are analyzed for their business impact
 
