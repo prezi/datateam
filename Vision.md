@@ -5,8 +5,8 @@ One sentence: Prezilians can get answers to quantifiable questions about Prezi w
 
 Data culture
 ------------
-- every Prezilians understand what she needs to do to enable a data-driven culture for everybody:
-    - buy-in from engineering organization regarding data-driven culture:
+- every Prezilians understand what she needs to do to enable a data-driven culture:
+    - buy-in from engineering organization:
         - conscious logging choices because every engineer understands that the data/charts derived from these logs is the basis of our product, marketing, finance and hox organizations now and going forward
         - engineers think about the data that will be derived from their programs' logs the same way they think about testing or refactoring their code
         - this is treated as part of the "full-stack developer"
