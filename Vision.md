@@ -10,7 +10,7 @@ Data culture
         - conscious logging choices because every engineer understands that the data/charts derived from these logs is the basis of our product, marketing, finance and hox organizations now and going forward
         - engineers think about the data that will ve derived from their programs' logs the same way they think about testing or refactoring their code
         - this is treated as part of the "full-stack developer"
-    - product managers allocate time for this the same way they allocate time for refactoring code
+    - product managers and techleads allocate time for this the same way they allocate time for refactoring code
 - industry leaders: invited to conferences to share our culture's details
 
 Data infrastructure
@@ -36,16 +36,25 @@ Data dashboards
 
 Product Analytics
 -----------------
+- clear understanding of our user population:
+    - user segments
+    - what the value of Prezi for each segment is
+    - parameters such as ttp and retention measured for each
+    - funnel built for each user segment
+- thousands of A/B test experiments running in parallel to test the effect individual changes (instead of causation vs. correlation discussions)
+- relevant product changes are analyzed for their business impact
 
 Business Analytics
 ------------------
+- clear definition of important company-wide metrics
+- every Prezilian knows what they are, their definitions, their current value
+- changes in our metrics ("ttp went down") can be tracked back easily to root causes ("lots of students in europe went into trial a month ago")
 
 Data people and teams
 ---------------------
-- separation of concerns: each function has a separate 2 man team assigned
+- separation of concerns: each function has a separate >= 2 man team assigned
     - infrastructure and tools
     - dashboards
     - metrics
     - product analytics
     - business analytics
-
