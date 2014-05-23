@@ -33,6 +33,7 @@ Data dashboards
     - shows up-to-date information
     - includes forecast
     - supports impact modeling: "what happens if we increase ttp by 10%?"
+    - teams know their chart's place in this system, goals and metrics are in accordance with this system, displayed and tracked on it
 - replace GoodData with a dashboarding system (off-the-shelf or homegrown) that is able to show us fine-segments like Prezi Analytics but supports self-service charts and dashboards like GoodData
 
 Product Analytics
