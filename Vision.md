@@ -23,7 +23,9 @@ Data tools and infrastructure
 - scales with prezi.com
 - accurately preserves data flowing through it
 - minimal manual intervention to keep it running
-- real-time metrics and tools to query it (like Linkedin)
+- real-time, fine-grained metrics and tools to query it (like Linkedin):
+    - can tell whether CPU load of an app server is correlated with load time of Prezis loaded from that server
+    - can tell whether ^ is correlated with long-term retention of those users
 - Prezilians can create self-service funnels
 - industry leaders: we are invited to conferences to share our system's details
 
