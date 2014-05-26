@@ -16,7 +16,8 @@ Data culture
 
 Data tools and infrastructure
 -----------------------------
-- 99.9% uptime
+- no more than 1 data prio1 per cycle
+- 99.9% Hadoop uptime
 - on-time delivery
 - scales with prezi.com
 - accurately preserves data flowing through it
