@@ -45,7 +45,7 @@ Product Analytics
     - funnel built for each user segment
     - interaction of segments wrt. virality
 - thousands of A/B test experiments running in parallel to test the effect of individual changes (instead of causation vs. correlation discussions)
-- equivalence of product managers and product analyst: we train/hire such good PMs that they have strong analytics skills, and don't need help, and vica versa, our analysts can act as PMs
+- equivalence of product managers and product analyst: our PMs have strong analytics skills and don't need help from analysts, and vica versa, our analysts can act as PMs
 - relevant product changes are analyzed for their business impact
 
 Business Analytics
