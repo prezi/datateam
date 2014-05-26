@@ -18,10 +18,10 @@ Data infrastructure
 -------------------
 - 99.9% uptime
 - on-time delivery
-- scales with Prezi.com
+- scales with prezi.com
 - accurately preserves data flowing through it
 - minimal manual intervention to keep it running
-- industry leaders: invited to conferences to share our system's details
+- industry leaders: we are invited to conferences to share our system's details
 
 Data tools
 ----------
