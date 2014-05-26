@@ -14,17 +14,14 @@ Data culture
 - self-service: Prezilians can find, access and understand data and create their own charts and dashboards without confusing data problems
 - industry leaders: we are invited to conferences to share our culture's details
 
-Data infrastructure
--------------------
+Data tools and infrastructure
+-----------------------------
 - 99.9% uptime
 - on-time delivery
 - scales with prezi.com
 - accurately preserves data flowing through it
 - minimal manual intervention to keep it running
 - industry leaders: we are invited to conferences to share our system's details
-
-Data tools
-----------
 
 Data dashboards
 ---------------
@@ -35,6 +32,9 @@ Data dashboards
     - supports impact modeling: "what happens if we increase trial-to-pay by 10%?"
     - teams know their place in this system, goals and metrics are in accordance, displayed and tracked on it
 - replace GoodData with a dashboarding system (off-the-shelf or homegrown) that is able to show fine-segments like Prezi Analytics but supports self-service charts and dashboards like GoodData
+- we open source our dashboards and it acts as a hiring magnet
+- industry leaders: we are invited to conferences to share our system's details
+
 
 Product Analytics
 -----------------
