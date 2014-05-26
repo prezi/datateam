@@ -23,6 +23,8 @@ Data tools and infrastructure
 - scales with prezi.com
 - accurately preserves data flowing through it
 - minimal manual intervention to keep it running
+- real-time metrics and tools to query it (like Linkedin)
+- Prezilians can create self-service funnels
 - industry leaders: we are invited to conferences to share our system's details
 
 Data dashboards
