@@ -12,7 +12,7 @@ Data culture
         - this is treated as part of the "full-stack developer"
     - product managers and techleads allocate time for this the same way they allocate time for refactoring code
 - self-service: Prezilians can find, access and understand data and create their own charts and dashboards without confusing data problems
-- industry leaders: invited to conferences to share our culture's details
+- industry leaders: we are invited to conferences to share our culture's details
 
 Data infrastructure
 -------------------
