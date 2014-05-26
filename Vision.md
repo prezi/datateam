@@ -50,6 +50,7 @@ Product Analytics
 
 Business Analytics
 ------------------
+- relevant product changes are analyzed for their business impact
 - clear definition of important company-wide metrics
 - every Prezilian knows what they are, their definitions, their current value
 - changes in our metrics ("trial-to-pay went down") can be tracked back easily to root causes ("lots of students in europe went into trial a month ago because of an email campaign")
