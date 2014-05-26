@@ -34,7 +34,7 @@ Data dashboards
     - includes forecast
     - supports impact modeling: "what happens if we increase trial-to-pay by 10%?"
     - teams know their place in this system, goals and metrics are in accordance, displayed and tracked on it
-- replace GoodData with a dashboarding system (off-the-shelf or homegrown) that is able to show us fine-segments like Prezi Analytics but supports self-service charts and dashboards like GoodData
+- replace GoodData with a dashboarding system (off-the-shelf or homegrown) that is able to show fine-segments like Prezi Analytics but supports self-service charts and dashboards like GoodData
 
 Product Analytics
 -----------------
