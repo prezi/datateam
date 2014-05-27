@@ -29,6 +29,11 @@ Data tools and infrastructure
 - Prezilians can create self-service funnels
 - industry leaders: we are invited to conferences to share our system's details
 
+Metrics and warehouse
+---------------------
+- clear definition of important company-wide metrics
+- core datasets related to company-wide metrics available in a clean, structured, documented data warehouse
+
 Data dashboards
 ---------------
 - Prezi Circulatory System: a company-wide diagram which shows the flow of visitors, users, trials, revenue, etc. through our business to a fine detail, showing where and what each team impacts
