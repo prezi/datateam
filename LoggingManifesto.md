@@ -53,13 +53,22 @@ Action items
     - or if you log something that is related to the virality of Prezi, such as sharing
 - if you accept the importance of logging, it means logging should also be:
     - explictily part of planning (PMs)
-    - tests should be written for it
-    - maybe static analysis
-    - agreements should be reached between teams how to do it, the same way agreements are reached about APIs, testing framework, CI tools
+    - acceptance tests in Jenkins
+    - static analysis
+    - agreements should be reached between teams how to do it, like for builds, testing, continuous integration
     - documentation (maybe generated automatically from log lines?)
 
 Who should do it?
 -----------------
-- why you? why can't the "data team" take care of this?
-    - (there is no such thing as a "data team")
-    - it doesn't scale, no one team 1/20 the size of the engineer team can hunt down all log lines you write
+- why you? why can't the data team take care of this?
+    - there is no such thing as the data team
+    - it doesn't scale: one team 5% the size of the engineering organization can't hunt down all log lines you write
+    - you should do it: it's now part of your job description
+
+What happens if you don't do it
+-------------------------------
+- this is where we're at right now
+- the upper layers of the company won't have good, reliable data fed to them
+- lots of waste (muda) in planning: bad decisions, bad models, bad forecasts, missed goals
+- this eventually leads to bad morale for everybody at the company :(
+
