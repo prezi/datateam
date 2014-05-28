@@ -1,6 +1,14 @@
 The Logging Manifesto
 =====================
 
+Who whould read this?
+---------------------
+You should read this if you:
+- are an engineer, or
+- manage engineers, or
+- manage the product, or
+- manage the website
+
 Full-stack developer
 --------------------
 - definition of full-stack developer
