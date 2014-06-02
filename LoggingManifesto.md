@@ -82,6 +82,7 @@ We connect these (except website visits) to users, and then segment by:
 Other ideas
 -----------
 1. talk to Analytics team (Balogh sucess story: ipad new editor logs kick ass)
+    - what needs to be logged? user interaction!
 2. if you log it like X, it will go into redshift automatically
 3. charting tool for redshift (charting.io)
 4. lead metric for each team: % of active users who use your feature
