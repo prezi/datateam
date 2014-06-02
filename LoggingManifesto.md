@@ -13,7 +13,15 @@ You should read this if you:
 Startup cycles
 --------------
 - lean startup says: Build - Measure - Learn
-- we know what the Measure phase means, and we're doing it at Prezi
+- we know what the Measure phase means, and we're doing it at Prezi:
+    - write code to change a button
+    - write logs for button
+    - write tests
+    - run tests
+    - release to 2%
+    - conduct A/B test whether new button is better than old button
+    - evaluate test results
+    - ...
 - there's a zeroth phase: Plan
 - full cycle is: Plan - Build - Measure - Learn
 - when a startup is small, planning is implicit and nobody even notices it
