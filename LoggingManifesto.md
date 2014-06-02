@@ -26,7 +26,7 @@ Startup cycles
 - full cycle is: Plan - Build - Measure - Learn
 - when a startup is small, planning is implicit and nobody even notices it
 - as it grows, **planning** becomes more apparent and important and meta layers appear:
-    - setting company-level goals (hox)
+    - setting company goals (hox)
     - building a quantitative model of the company (hox, finance, analytics)
     - creating a financial forecast (finance)
     - deriving product, engineering, marketing, sales, hiring plans from the above
