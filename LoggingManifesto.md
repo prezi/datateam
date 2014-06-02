@@ -54,8 +54,8 @@ Startup cycles
 - when a startup is small, planning is implicit and nobody even notices it
 - as it grows, **planning** becomes more apparent and important and meta layers appear:
     - setting company-level goals (hox)
-    - building a financial/product model of the company (analytics)
-    - setting a financial forecast for the next year (finance)
+    - building a quantitative model of the company (hox, finance, analytics)
+    - creating a financial forecast (finance)
     - deriving product, engineering, marketing, sales, hiring plans from the above
 
 Action items
