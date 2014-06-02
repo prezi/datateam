@@ -62,3 +62,26 @@ What happens if you don't do it
 - lots of waste (muda) in planning: bad decisions, bad models, bad forecasts, missed goals
 - this eventually leads to bad morale for everybody at the company :(
 
+
+Good first step: let's get the core metrics right
+-------------------------------------------------
+Actually, there are not that many core metrics:
+- website visits (we don't have it)
+- user registrations
+- daily active user
+- nps
+- trial enter
+- payments
+
+We connect these (except website visits) to users, and then segment by:
+- registration source (bad)
+- location (first IP address we see in the logs)
+- license
+- platform (we don't have it)
+
+Other ideas
+-----------
+1. talk to Analytics team (Balogh sucess story: ipad new editor logs kick ass)
+2. if you log it like X, it will go into redshift automatically
+3. charting tool for redshift (charting.io)
+4. lead metric for each team: % of active users who use your feature
