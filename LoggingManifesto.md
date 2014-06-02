@@ -22,7 +22,7 @@ Startup cycles
     - conduct A/B test whether new button is better than old button
     - evaluate test results
     - ...
-- there's a zeroth phase: Plan
+- but there's a zeroth phase: Plan
 - full cycle is: Plan - Build - Measure - Learn
 - when a startup is small, planning is implicit and nobody even notices it
 - as it grows, **planning** becomes more apparent and important and meta layers appear:
