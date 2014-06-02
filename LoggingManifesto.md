@@ -29,22 +29,6 @@ Full-stack developer
         - ...
     - how does logging come into play?
 
-Agile principles
-----------------
-I believe what I propose is in line with the 12 agile principles.
-- Customer satisfaction by rapid delivery of useful software
-- Welcome changing requirements, even late in development
-- Working software is delivered frequently (weeks rather than months)
-- **Close, daily cooperation between business people and developers**
-- Projects are built around motivated individuals, who should be trusted
-- Face-to-face conversation is the best form of communication (co-location)
-- Working software is the principal measure of progress
-- **Sustainable development, able to maintain a constant pace**
-- Continuous attention to technical excellence and good design
-- Simplicity—the art of maximizing the amount of work not done—is essential
-- **Self-organizing teams**
-- Regular adaptation to changing circumstances
-
 Startup cycles
 --------------
 - lean startup says: Build - Measure - Learn
