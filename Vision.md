@@ -3,6 +3,12 @@ D.A.T.A. Vision
 
 One sentence: Prezilians can get answers to quantifiable questions about Prezi within an hour.
 
+Three things
+------------
+- no data prio1 in 3 months
+- Metrics team has finished codifying core metrics
+- open source GoodData dashboard
+
 Data culture
 ------------
 - every Prezilians understand what she needs to do to enable a data-driven culture:
