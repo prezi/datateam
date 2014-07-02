@@ -74,9 +74,19 @@ The standard email is:
 
     # hiring manager = maro
     Let's have a quick chat every day about your progress.
-    I will schedule a quick meet with you on Monday and Tuesday.
+    I will schedule a quick meet with you on XXXXX and XXXXX.
 
     Good luck :)
+
+Mentor
+------
+Every candidate has a mentor.
+A mentor's job is to:
+- make sure the candidate has a good time at Prezi, show him around, guide him
+- help him set up the assessment Macbook
+- make sure the candidate understands the task, help him scope
+- but don't make decisions for him, don't solve big problems
+- give minor programming help like you would to a teammate, help with code reviews
 
 1v1s during the assessment days
 -------------------------------
