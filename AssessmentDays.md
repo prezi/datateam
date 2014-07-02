@@ -1,15 +1,24 @@
 Assessment days
 ===============
 
-Who is responsible for inviting candidates for assessment days?
----------------------------------------------------------------
-Talent team, in our case Kate.
+Inviting candidates
+-------------------
+Talent team, in our case Kate invites candidates to assessment days.
 
-Who is responsible for sending out the task?
---------------------------------------------
-The hiring manager, in our case Maro.
+Attendance during assessment weeks
+----------------------------------
+Everybody should try to be as much at the office as possible when we have an assessment weeker.
+Especially the team where the candidate is working.
+This is important, so:
+- the candidate can ask questions to clarify the task
+- the candidate can learn about the team, to make an informed decision at the end
+- D.A.T.A. can learn about the candidate, to make an informed decision at the end
+
+Sending out the assessment task
+-------------------------------
+The hiring manager, in our case Maro sends out the assessment task.
 The week before the assessment days, the h.m. consults with the team what a good task is.
-The task is sent out the calendar day before the assessment days start.
+The task is sent out the calendar day before the assessment days start to the candidate's private email.
 The standard email is:
 
     Welcome to Prezi assessment days!
@@ -90,39 +99,44 @@ A mentor's job is to:
 
 1v1s during the assessment days
 -------------------------------
-The hiring manager sets up a 1v1 on the end of the 1st and 2nd day with the candidate.
-Among others, he asks: "how much would you like in Prezi, on a scale of 1-10".
+The h.m. sets up a 1v1 on the end of the 1st and 2nd day with the candidate.
+Among others, he asks: "How much would you like to work in Prezi, on a scale of 1-10?"
 
 Preparing for the conclusion prezi
 ----------------------------------
-At the end of the 2nd day, the hiring manager send out this email to the candidate:
+At the end of the 2nd day, the h.m. sends out this email to the candidate:
 
     # about the assmt task
     - what was your assmt task?
     - what did you do?
     - if you were the techlead, how would you plan the remainder of this task?
     (don't draw in the prezi, if you want to draw there will be a whiteboard)
-
+    
     # meta
     - what was the most surprising thing at Prezi for you?
-
+    
     # the point of the whole thing
     - why should we hire you, why are you the right fit for the job?
 
 Conclusion prezi
 ----------------
-Talent sets up the conclusion Prezi.
+Talent team, in our case Kate sets up the conclusion Prezi in Google calendar.
 Attendees:
 - candidate
 - every D.A.T.A. member
-- talent: usually Kate and Christopher
+- talent team: usually Kate and Christopher
 
 Decision
 --------
 After the conclusion prezi, we ask the candidate to leave the room.
 We discuss how it went.
-The hiring manager asks everybody:
-"How much would you like to work with the candidate, from 1-10?"
+The hiring manager asks everybody: "How much would you like to work with the candidate, from 1-10?"
 We make a decision on the spot whether to hire.
 If it's a 'no', the hiring manager tells the candidate.
 If it's a 'yes', the hiring manager consults first with Talent about levels and salaries, then makes the offer.
+
+Offer letter
+------------
+Talent team sends out an official offer the same day to the candidate.
+The candidate has a few days to officially reply.
+In either case, the h.m. lets D.A.T.A. know how it went, what level the candidate was hired at.
