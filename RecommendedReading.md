@@ -18,3 +18,8 @@ The Lean Startup
 ----------------
 http://theleanstartup.com/
 http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898
+
+This is Lean
+------------
+http://thisislean.com/
+http://www.amazon.com/This-Lean-Resolving-Efficiency-Paradox/dp/919803930X
