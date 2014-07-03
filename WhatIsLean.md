@@ -5,7 +5,7 @@ This is based on the book **This is Lean**.
 
 http://www.amazon.com/This-Lean-Resolving-Efficiency-Paradox/dp/919803930X
 
-These ideas are all derived from the Toyota Motor Corporation's internal work culture
+These ideas are all derived from the Toyota Motor Corporation's internal work culture.
 
 Flow efficiency vs resource efficiency
 --------------------------------------
