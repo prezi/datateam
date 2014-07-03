@@ -103,9 +103,8 @@ Value pyramid
 
 Links
 -----
+http://en.wikipedia.org/wiki/Toyota_Production_System  
 http://en.wikipedia.org/wiki/Autonomation
-
-http://en.wikipedia.org/wiki/Toyota_Production_System
 
 
 
