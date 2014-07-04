@@ -44,14 +44,14 @@ It's not that important, but **resource efficiency** can also be defined to be t
 The efficiency paradox
 ----------------------
 Concentrating on resource efficiency tends to introduce a lot of waste into the system:
-- long queues and waiting time
+- long queues
+- long waiting time
 - large inventory
-- logistics due to moving the inventory
-- quality time (waits in inventory, goes bad)
-- HR troubles: worrying (because has to wait, has to handle long queues, eg. email)
-- restart time
+- complex logistics when moving the inventory
+- quality troubles (waits in inventory, goes bad)
+- peopleware worrying (has to wait, has to handle long queues, eg. email)
 - costly restarts (when something goes wrong or changes)
-- these then generate even more work, leading to the efficiency paradox
+- ^ these then generate even more work, leading to the efficiency paradox
 
 The efficiency paradox says that if you concentrate on resource efficiency, you will introduce extra work to handle the above work. Thus you will be always busy, and it will seem like you are very efficient. But you're not, you're not even being resource efficient, because you're not actually adding value to flow units when you're handling these superfluous issues.
 
@@ -59,24 +59,24 @@ Lean thinking
 -------------
 Five principles:
 
-- specify value from the standpoint of the end customer
+- specify value from the standpoint of the customer
 - identify the value stream and eliminate all steps that do not add value
 - make the remaining value-creating steps flow, so that the product flows smoothly towards the customer
-- when the flow is established, let the customer pull value upstream from the next upstream activity
+- when the flow is established, let the customer **pull** value upstream from the next upstream activity
 - when the previous step are complete, the process starts all over again to further reduce waste
 
 The Toyota Way
 --------------
 Continuous improvement:
 
-- challenge: form a long-term vision and meet challenges with courage and creativity to realize our dreams
+- challenge: we form a long-term vision and meet challenges with courage and creativity to realize our dreams
 - kaizen: we continously improve our business operations, always striving for innovation and evolution
-- genchi genbutsu: we go to the source to find the facts to make correct decisions, build consensus, and echieve goals at our best speed
+- genchi genbutsu: we go to the source to find the facts to make correct decisions, build consensus, and achieve goals at our best speed
 
 Respect for people:
 
 - respect: we respect others, make every effort to understand each other, take responsibility, and do our best to build mutual trust
-- teamwork: we stimulate personal and professional growth, share the opportunities of development, and maximise individual and team performance
+- teamwork: we stimulate personal and professional growth, share the opportunities for development, and maximise individual and team performance
 
 Toyota's 14 principles:
 
