@@ -37,7 +37,7 @@ More specifically, **flow efficiency** is the ratio of:
 
 In a flow efficient system, this ratio is high: the flow unit enter the system, the resouces quickly work on it like busy little ants, and the flow unit exits the system.
 
-It's not that important, but **resource efficiency** can also be defined to be the ration of:
+It's not that important, but **resource efficiency** can also be defined to be the ratio of:
 - the amount of time a resource works on flow units (value-adding time)
 - total time (eg. per day)
 
