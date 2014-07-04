@@ -80,25 +80,25 @@ Respect for people:
 
 Toyota's 14 principles:
 
-1. Base your management decisions on a long-term philosophy, even at the expense of short-term financial goals.
-2. Create cont. process flow to bring problems to the surface.
-3. Use 'pull' systems to avoid overproduction.
-4. Level out the workload.
-5. Stop the process if necessary to fix problems in order to get the quality right the first time. Don't build faulty product.
-6. Standardise tasks and processes for cont. improvement and for employee empowerment.
-7. Use visual control so that no problems are hidden.
-8. Use only reliable, tested technology that serves your people and processes.
-9. Grow leaders who understand the work, live the philosophy, and teach it to others.
-10. Develop exceptional people and teams that follow the company's philosophy.
-11. Respect your partners and suppliers by challenging them and helping them improve.
-12. Go and see with your own eyes in order to understand the situation properly.
-13. Make decisions slowly by consensus, and implement decisions rapidly. (I don't like this.)
-14. Become a learning organization through reflection and cont. improvement.
+1. Base your management decisions on a long-term philosophy, even at the expense of short-term financial goals
+2. Create cont. process flow to bring problems to the surface
+3. Use 'pull' systems to avoid overproduction
+4. Level out the workload
+5. Don't build faulty product: stop the process if necessary to fix problems in order to get the quality right the first time
+6. Standardise tasks and processes for cont. improvement and for employee empowerment
+7. Use visual control so that no problems are hidden
+8. Use only reliable, tested technology that serves your people and processes
+9. Grow leaders who understand the work, live the philosophy, and teach it to others
+10. Develop exceptional people and teams that follow the company's philosophy
+11. Respect your partners and suppliers by challenging them and helping them improve
+12. Go and see with your own eyes in order to understand the situation properly
+13. Make decisions slowly by consensus, and implement decisions rapidly (I don't like this)
+14. Become a learning organization through reflection and cont. improvement
 
 Value pyramid
 -------------
 - values: how an organization should behave
-- principles: just-in-time, jidoka: how an organization should think
+- principles: how an organization should think (just-in-time, jidoka)
 - methods: what an organization should do
 - tools and activities: what an organization should have
 
@@ -106,6 +106,3 @@ Links
 -----
 http://en.wikipedia.org/wiki/Toyota_Production_System  
 http://en.wikipedia.org/wiki/Autonomation
-
-
-
