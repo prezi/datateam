@@ -104,7 +104,7 @@ Value pyramid
 
 Links
 -----
-A reall good Harvard Business Review article about the Toyota Production System:
+A really good Harvard Business Review article about the Toyota Production System:
 
 http://www.clinicalmicrosystem.org/assets/toolkits/getting_started/decoding_dna.pdf
 
