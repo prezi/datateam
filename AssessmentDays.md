@@ -17,10 +17,27 @@ Every monday during D.A.T.A. lovefest we review the persona to make sure everybo
 Inviting candidates
 -------------------
 Talent team, in our case Kate invites candidates to assessment days.
+
 Kate has to make sure at least 75% of the team is here during those 3 days.
 
-Attendance during assessment weeks
-----------------------------------
+Assessment task
+---------------
+The week before the assessment days, the h.m., the mentor and the hiring team have a 30 minute meeting to finalize the assessment task.
+
+Everybody has to bring ideas.
+
+Task should:
+- be a stretch (it should be a 2 week task where it's possible to have a good first step)
+- address our concerns
+- include relevant activities (eg. writing python code, talking to Kalman, making decisions)
+- be matched to the estimated level
+
+We have to discuss a roadmap, like this is what I would do, then that, this is how far I would get in 3 days. If he doesn't do that by the end of the 1st day, we do that, etc.
+
+At the end of the meeting, the h.m. decides what the task is.
+
+Work during assessment days
+---------------------------
 During assessment days, everybody (D.A.T.A. and candidate) sit together in the ballroom.
 Try to avoid work-from-home during assessment days.
 This is important, so:
@@ -104,6 +121,7 @@ The standard email is:
 Mentor
 ------
 Every candidate has a mentor.
+The h.m. picks the mentor.
 A mentor's responsibilities are:
 - prepare for assessment task by figuring out how you would solve it
 - make sure the candidate has a good time at Prezi, show him around, guide him
@@ -111,6 +129,7 @@ A mentor's responsibilities are:
 - make sure the candidate understands the task, help him scope
 - but don't make decisions for him, don't solve big problems
 - give minor programming help like you would to a teammate, help with code reviews
+- give feedback to the candidate at the beginning of the 2nd and 3rd day
 - organize interesting lunch for candidate every day during assessment
 - organize small databeer on 2nd day in Apacuka, 18:00 - 20:00
 - review code before conclusion prezi
@@ -119,6 +138,11 @@ A mentor's responsibilities are:
 -------------------------------
 The h.m. sets up a 1v1 on the end of the 1st and 2nd day with the candidate.
 Among others, he asks: "How much would you like to work in Prezi, on a scale of 1-10?"
+
+Communication
+-------------
+At the end of the 1st and 2nd day, we discuss per email how the candidate is doing.
+The mentor gives feedback to the candidate at the beginning of the 2nd and 3rd day, guides him.
 
 Preparing for the conclusion prezi
 ----------------------------------
@@ -148,6 +172,7 @@ Decision
 --------
 After the conclusion prezi, we ask the candidate to leave the room.
 We discuss how it went.
+Ask yourself, "if you were the h.m., would you proudly announce this person during SnT?".
 The hiring manager asks everybody: "How much would you like to work with the candidate, from 1-10?"
 We make a decision on the spot whether to hire.
 If it's a 'no', the hiring manager tells the candidate.
