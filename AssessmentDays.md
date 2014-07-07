@@ -123,8 +123,8 @@ Mentor
 Every candidate has a mentor.
 The h.m. picks the mentor.
 A mentor's responsibilities are:
-- prepare for assessment task by figuring out how you would solve it
 - make sure the candidate has a good time at Prezi, show him around, guide him
+- prepare for assessment task by figuring out how you would solve it
 - help him set up the assessment Macbook
 - make sure the candidate understands the task, help him scope
 - but don't make decisions for him, don't solve big problems
@@ -174,8 +174,9 @@ After the conclusion prezi, we ask the candidate to leave the room.
 We discuss how it went.
 Ask yourself, "if you were the h.m., would you proudly announce this person during SnT?".
 The hiring manager asks everybody:
-- write 3 pros, 3 cons for the candidate
+- write 3 pros and 3 cons for the candidate
 - how much would you like to work with the candidate, from 1-10?
+
 We make a decision on the spot whether to hire.
 If it's a 'no', the hiring manager tells the candidate.
 If it's a 'yes', the hiring manager consults first with Talent about levels and salaries, then makes the offer.
