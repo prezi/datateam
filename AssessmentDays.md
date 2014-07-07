@@ -6,7 +6,7 @@ Candidate persona
 When hiring starts, we write a Candidate persona Google doc.
 We maintain it during the whole hiring process.
 The hiring manager is responsible for this, and only the h.m. updates this doc.
-We accept we won't find this exact person, but it helps us to be on the same page, when making yes/no decisions.
+We accept we won't find this exact person, but it helps us to be on the same page when making decisions.
 
 We write the candidate persona for a team that we are hiring for (eg. Data Service).
 But we are gatekeepers: the person could 2 months later move to another team within D.A.T.A. or even PaaS.
