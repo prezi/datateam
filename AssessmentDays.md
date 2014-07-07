@@ -17,11 +17,12 @@ Every monday during D.A.T.A. lovefest we review the persona to make sure everybo
 Inviting candidates
 -------------------
 Talent team, in our case Kate invites candidates to assessment days.
+Kate has to make sure at least 75% of the team is here during those 3 days.
 
 Attendance during assessment weeks
 ----------------------------------
-Everybody should try to be as much at the office as possible when we have an assessment weeker.
-Especially the team where the candidate is working.
+During assessment days, everybody (D.A.T.A. and candidate) sit together in the ballroom.
+Try to avoid work-from-home during assessment days.
 This is important, so:
 - the candidate can ask questions to clarify the task
 - the candidate can learn about the team, to make an informed decision at the end
@@ -103,12 +104,16 @@ The standard email is:
 Mentor
 ------
 Every candidate has a mentor.
-A mentor's job is to:
+A mentor's responsibilities are:
+- prepare for assessment task by figuring out how you would solve it
 - make sure the candidate has a good time at Prezi, show him around, guide him
 - help him set up the assessment Macbook
 - make sure the candidate understands the task, help him scope
 - but don't make decisions for him, don't solve big problems
 - give minor programming help like you would to a teammate, help with code reviews
+- organize interesting lunch for candidate every day during assessment
+- organize small databeer on 2nd day in Apacuka, 18:00 - 20:00
+- review code before conclusion prezi
 
 1v1s during the assessment days
 -------------------------------
