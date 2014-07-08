@@ -18,7 +18,7 @@ Data culture
         - engineers think about the data that will be derived from their programs' logs the same way they think about testing or refactoring their code
         - this is treated as part of the "full-stack developer"
     - product managers and techleads allocate time for this the same way they allocate time for refactoring code
-- self-service: Prezilians can find, access and understand data and create their own charts and dashboards without confusing data problems
+- self-service: **Prezilians can find, access and understand data** and create their own charts and dashboards without confusing data problems
 - A/B testing is part of our culture
 - industry leaders: we are invited to conferences to share our culture's details
 
