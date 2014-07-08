@@ -8,7 +8,7 @@ Medium term
 - no data prio1 in 3 months
 - codifed core metrics
 - data warehouse and charting on top to replace GoodData
-- good process for doing business analytics
+- **good process for doing business analytics**
 
 Data culture
 ------------
