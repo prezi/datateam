@@ -7,7 +7,7 @@ Medium term
 -----------
 - no data prio1 in 3 months
 - codifed core metrics
-- open source dashboard that replaces GoodData
+- data warehouse and charting on top to replace GoodData
 - good process for doing business analytics
 
 Data culture
