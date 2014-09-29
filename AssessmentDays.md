@@ -178,8 +178,8 @@ The hiring manager asks everybody:
 - how much would you like to work with the candidate, from 1-10?
 
 We make a decision on the spot whether to hire.
-If it's a 'no', the hiring manager tells the candidate.
-If it's a 'yes', the hiring manager consults first with Talent about levels and salaries, then makes the offer.
+The h.m. then has a day to consult Joel, Kate, Zotya, etc. about levels and salaries.
+The offer is made the next day.
 
 Offer letter
 ------------
