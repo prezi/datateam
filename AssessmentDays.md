@@ -1,19 +1,6 @@
 Assessment days
 ===============
 
-Candidate persona
------------------
-When hiring starts, we write a Candidate persona Google doc.
-We maintain it during the whole hiring process.
-The hiring manager is responsible for this, and only the h.m. updates this doc.
-We accept we won't find this exact person, but it helps us to be on the same page when making decisions.
-
-We write the candidate persona for a team that we are hiring for (eg. Data Service).
-But we are gatekeepers: the person could 2 months later move to another team within D.A.T.A. or even PaaS.
-Remember this when answering the question: "how much do you want to work with X?".
-
-Every monday during D.A.T.A. lovefest we review the persona to make sure everybody is aware of any changes.
-
 Inviting candidates
 -------------------
 Talent team, in our case Kate invites candidates to assessment days.
