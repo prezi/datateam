@@ -1,5 +1,11 @@
 # Metrics team backlog
 
+## Documentation
+
+- index page: list of all possible sources (datadoc, google analytics, android app store something...)
+- migrate from wiki to datadoc: http://wiki.prezi.com/index.php?title=Main_Page#Data
+- link them in confluence
+
 
 ## Fix source in metrics.active_time_aggregated
 
@@ -10,12 +16,6 @@ It contains strange values like "edito", "editoc", "editov"
 
 - migrate logbox rules from user to core that we depend on: desktop?
 - migrate/take over user jobs we depend on
-
-
-## Documentation
-
-- migrate from wiki to datadoc: http://wiki.prezi.com/index.php?title=Main_Page#Data
-- link them in confluence
 
 
 ## Misc
