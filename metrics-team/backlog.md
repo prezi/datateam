@@ -2,7 +2,7 @@
 
 ## Documentation
 
-- index page: list of all possible sources (datadoc, google analytics, android app store something...)
+- index page: list of all possible sources (datadoc, google analytics, android app store something...) cf Is there a "What tool to use for what" doc? email from Drew Banks, Android from GA: https://chartio.com/prezi/android-getting-the-app/
 - migrate from wiki to datadoc: http://wiki.prezi.com/index.php?title=Main_Page#Data
 - link them in confluence
 
