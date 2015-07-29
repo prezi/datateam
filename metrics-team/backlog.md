@@ -7,6 +7,11 @@
 - link them in confluence
 
 
+## Check SUL-MUL flow
+
+https://datadoc.prezi.com/alert/167988
+
+
 ## Fix source in metrics.active_time_aggregated
 
 It contains strange values like "edito", "editoc", "editov"
