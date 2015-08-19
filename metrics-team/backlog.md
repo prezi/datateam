@@ -29,7 +29,7 @@ It contains strange values like "edito", "editoc", "editov"
 
 - braintree chargeback and refunds duplicates
 - should_pay_day for monthly: first payment + full months (there's no trial)
-
+- extended_access log - refcode_cookie_request and refcode_cookie_response are corrupted for 2015-06-03 to 2015-08-15
 
 ## check SnT
 https://datadoc.prezi.com/alert/24517
