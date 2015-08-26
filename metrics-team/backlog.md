@@ -25,6 +25,22 @@ It contains strange values like "edito", "editoc", "editov"
 - migrate/take over user jobs we depend on
 
 
+## 11k ISK Braintree chargeback
+
+```sql
+SELECT
+  *
+FROM
+  metrics.braintree_disputes
+WHERE parent_transaction_id = 'dqztjqr'
+AND id = '6bpy39wytjf7gkcg'
+ORDER BY updated_at
+LIMIT
+  500
+;
+```
+
+
 ## Misc
 
 - braintree chargeback and refunds duplicates
